@@ -1,0 +1,16 @@
+.
+├── akarki5.lab1a.txt
+├── akarki5.lab1b.txt
+├── akarki5.lab1c.txt
+├── akarki5.lab1d.txt
+├── CheckLab1.py
+├── CheckLab1.py.1
+├── gitlog.txt
+├── lab1a.py
+├── lab1b.py
+├── lab1c.py
+├── lab1d.py
+├── README.md
+└── repo_tree.txt
+
+1 directory, 13 files

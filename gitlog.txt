@@ -1,0 +1,53 @@
+commit 7631d2fe5b70209dacbc210cb0e34fd2166104a6
+Author: Asia Karki <asiaeatss@gmail.com>
+Date:   Fri May 8 13:49:17 2026 -0400
+
+    Updated lab1 files with new checkscript
+
+commit b2d1e5d6d15521a76a8ac97cbd1886a5f1071ff6
+Author: Asia Karki <asiaeatss@gmail.com>
+Date:   Fri May 8 12:19:56 2026 -0400
+
+    completed lab
+
+commit 9cbf7a48e6c68135fb50e675883a022de1f5f0ed
+Author: Asia Karki <asiaeatss@gmail.com>
+Date:   Fri May 8 12:19:13 2026 -0400
+
+    Added lab1d
+
+commit 9156abf1fac4934ce08faa476a62dd20edbd01a3
+Author: Asia Karki <asiaeatss@gmail.com>
+Date:   Fri May 8 12:17:13 2026 -0400
+
+    Added lab1b and lab1c
+
+commit e525bcdf3105a84977402512a113a66b2ab78b10
+Author: Asia Karki <asiaeatss@gmail.com>
+Date:   Fri May 8 12:10:34 2026 -0400
+
+    Added lab1a
+
+commit 4fe29c8bf02a7e5f6d2642798de5047f67fdac72
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Fri May 8 14:50:42 2026 +0000
+
+    add deadline
+
+commit 9f6be30e3df2d9e04ae26c4c597b4dead17c72d1
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Fri May 8 14:50:40 2026 +0000
+
+    GitHub Classroom Autograding Workflow
+
+commit fa527c84b622859c5a42bc2e2d1b2545d660467f
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon May 4 05:06:30 2026 +0000
+
+    Create GitHub Classroom Autograding Workflow
+
+commit 6ee6f0d6d0979f1436e8f392af36e94d23905f2d
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon May 4 04:34:21 2026 +0000
+
+    Initial commit
